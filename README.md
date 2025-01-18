@@ -1,0 +1,1 @@
+This project involves an exploratory data analysis on mobile phone pricing to predict the prices of mobile phones based on their features. The goal is to develop a machine learning model that can accurately predict the prices of mobile phones based on their characteristics such as RAM, storage, camera quality, battery life, and more.
